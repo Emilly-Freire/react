@@ -4,6 +4,9 @@
 }
 
 .cabecalho {
-    border: solid;
     padding: 15px;
+}
+
+.titulo {
+    color: gray;
 }

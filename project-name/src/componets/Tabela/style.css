@@ -1,0 +1,61 @@
+#grafico {
+    display: flex;
+    position: absolute;
+    padding: 100px 80px;
+    margin-left: 1150px;
+    margin-top: -350px;
+}
+
+.barras {
+    font-size: 20px;
+    text-align: left;
+    margin-left: -35px;
+    color: white;
+}
+
+.barras h3 {
+    padding: 15px;
+}
+
+.titulos {
+    text-align: right;
+    font-size: 20px;
+    padding-left: 150px;
+}
+
+.titulos h3 {
+    padding: 15px;
+}
+
+.azul {
+    border: 3px groove rgb(102, 102, 255);
+    box-sizing: border-box;
+    background-color: rgb(102, 102, 255);
+    width: 60px;
+}
+
+.vermelho {
+    border: 3px groove rgb(243, 83, 83);
+    box-sizing: border-box;
+    background-color: rgb(243, 83, 83);
+    width: 150px;
+}
+
+.amarelo {
+    border: 3px groove rgb(255, 242, 53);
+    box-sizing: border-box;
+    background-color: rgb(255, 242, 53);
+    width: 40px;
+}
+
+.aluno {
+    color: rgb(102, 102, 255);
+}
+
+.prof {
+    color: rgb(243, 83, 83);
+}
+
+.tec {
+    color: rgb(255, 242, 53);
+}

@@ -4,7 +4,7 @@ function Titulo() {
 
     return (
         <header className='cabecalho'>
-            <h1>Total de Registros: </h1>
+            <h1 className='titulo'>Total de Registros: </h1>
         </header>
     )
 }

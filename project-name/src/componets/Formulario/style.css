@@ -1,0 +1,29 @@
+#formulario {
+    text-align: left;
+    border: 1px solid;
+    width: 350px;
+    margin-left: 70px;
+    margin-top: 80px;
+}
+
+.itens {
+    height: 250px;
+}
+
+.itens td .caixa {
+    height: 30px;
+    border: 1px groove gray;
+    border-radius: 10px;
+}
+
+.itens td .caixa1 {
+    border: 1px groove gray;
+    padding: 5px 15px;
+    border-radius: 10px;
+}
+
+.itens td .caixaHora {
+    border: 1px groove gray;
+    padding: 5px 15px;
+    border-radius: 10px;
+}
