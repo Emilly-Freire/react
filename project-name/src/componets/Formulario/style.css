@@ -1,16 +1,25 @@
 #formulario {
+    height: 300px;
     text-align: left;
     border: 1px solid;
     width: 350px;
-    margin-left: 70px;
+    margin-left: 350px;
     margin-top: 80px;
     padding: 30px;
     border-radius: 10%;
     box-shadow: 3px 3px 1px 0px #00000060
 }
 
+#formulario button {
+    padding: 10px 150px;
+    border-radius: 10px;
+    background-color: rgb(13, 98, 255);
+    border: 1px groove rgb(13, 98, 255);
+    color: white;
+}
+
 .itens {
-    height: 250px;
+    height: 280px;
 }
 
 .itens td .caixa {
